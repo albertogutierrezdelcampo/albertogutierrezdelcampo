@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @albertogutierrezdelcampo
+- 👀 I’m interested in Spark, Python, Data Engineering, AWS
+- 🌱 I’m currently learning AWS Data Stack
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me @AkaHalber920 in Twitter (it will always be Twitter...x)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Don't believe in kings, believe in the Kingdom
